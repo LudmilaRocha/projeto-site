@@ -1,0 +1,4 @@
+/* Minimal app overrides to complement MUI */
+#root {
+  min-height: 100vh;
+}
